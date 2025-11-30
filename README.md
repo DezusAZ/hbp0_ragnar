@@ -4,7 +4,7 @@ DZAZ method.
 This guide explains how to run Ragnar on a Hackberry Pi Zero, uConsole CM4, Raspberry Pi Zero 2W, Pi 5, Hackberry pi CM5 or any ARM-based Linux system without the e-paper display. The modified Ragnar.py used for headless operation is stored in this repository:
 https://github.com/DezusAZ/hbp0_ragnar/Ragnar.py
 
-1. Clone the Original Ragnar Repository
+1. Clone the Original Ragnar Repository.
 Clone Pierre Gode’s original Ragnar project:
 git clone https://github.com/PierreGode/Ragnar.git
 cd Ragnar
