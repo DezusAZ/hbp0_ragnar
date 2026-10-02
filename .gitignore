@@ -1,0 +1,7 @@
+# Claude project-management files — keep out of the code repo
+STATUS.md
+.claude/
+data/ragnar.db
+data/logs/
+venv/
+__pycache__/
